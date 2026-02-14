@@ -286,10 +286,10 @@ SMS Received: "You are eligible for PM-KISAN. ₹6000/year. Apply: pmkisan.gov.i
 
 **Team Bharat Sahayak**
 
-- **[Your Name]** - [Role] - [LinkedIn/GitHub]
-- **[Member 2]** - [Role] - [LinkedIn/GitHub]
-- **[Member 3]** - [Role] - [LinkedIn/GitHub]
-- **[Member 4]** - [Role] - [LinkedIn/GitHub]
+- **[Chatrapathi Rathod]** - [Data And Documentation Specilist]
+- **[Satyanarayana ]** - [Ai/ML and Voice System]
+- **[Aaditya Sah]** - [Frontend and IVR Developer]
+- **[Param]** - [Full Stack Developer]
 
 **Hackathon:** AWS AI for Bharat 2026
 
